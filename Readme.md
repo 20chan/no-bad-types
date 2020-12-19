@@ -1,4 +1,4 @@
-# no-bad-typse
+# no-bad-types
 
 Censors bad langauge automatically.
 
