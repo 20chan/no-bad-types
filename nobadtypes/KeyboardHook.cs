@@ -48,5 +48,10 @@ namespace Hook {
         public static void HookEnd() {
             UnhookWindowsHookEx(_hookID);
         }
+
+        public static void SimulateClick(int vkCode) {
+            keybd_event((byte)vkCode, 0x00, 0x00, 0);
+            keybd_event((byte)vkCode, 0x00, 0x02, 0);
+        }
     }
 }
