@@ -9,3 +9,7 @@ Censors bad langauge automatically.
 > Korean preview
 
 Click image to see full videos on youtube
+
+---
+
+크리스마스까지 일주일도 안남았는데 남은 일주일이라도 욕을 안하고 착하게 살아서 선물받아봅시다
