@@ -1,5 +1,7 @@
 # no-bad-typse
 
 Censors bad langauge automatically.
-See how it works on [youtube video](https://youtu.be/XGagMz2nAXU)
 
+[![preview](/preview.gif)](https://youtu.be/XGagMz2nAXU)
+
+Click image to see full videos on youtube
