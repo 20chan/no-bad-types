@@ -2,11 +2,10 @@
 
 Censors bad langauge automatically.
 
-[![english-preview](/preview.gif)](https://youtu.be/XGagMz2nAXU)
-> English demo
+[![english-preview](/preview-english.gif)](https://youtu.be/XGagMz2nAXU)
+> English preview
 
-[video](https://youtu.be/J-udiFJHUt)
-> Korean demo
+[![korean-preview](/preview-korean.gif)](https://youtu.be/J-udiFJHUt)
+> Korean preview
 
 Click image to see full videos on youtube
-
